@@ -1,0 +1,22 @@
+body { font-family: 'Noto Serif', serif;; }
+
+       }
+ a:link { color:#FF896F; }
+       a:visited { color:#00FF00; }
+       a:hover { color:#FF00FF; }
+       a:active { color:#0000FF; }
+
+body { background-color: #EFE7BD; }
+
+h2, h1  { color: rebeccapurple; } 
+
+li { color: rebeccapurple; } 
+
+img {width: 100%;}
+.image {width: 25em }
+body {font-size: 1.05em}
+line-height: 1.6;
+
+
+
+ 
