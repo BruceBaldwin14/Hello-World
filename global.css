@@ -13,7 +13,7 @@ header { padding-left: 2em;
     
 }
 
-
+div {width: 50%;}
 
 
 body { font-family: 'Noto Serif', serif; 
@@ -58,9 +58,11 @@ h2, h1  { color: #5f79c7; }
 
 li { color: #5f79c7; } 
 
-img {width: 100%;}
+img {width: 25em;}
 .image {width: 25em }
 body {font-size: 1.05em}
+
+
 line-height: 1.6;
 
 
